@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@layer components {
+  .btn-main {
+    @apply bg-blue-100 px-4 py-2 border-2 text-blue-400 border-white rounded-xl cursor-pointer font-bold;
+  }
+
+  .para {
+    @apply text-justify leading-relaxed indent-30;
+  }
+}
