@@ -6,6 +6,6 @@
   }
 
   .para {
-    @apply text-justify leading-relaxed indent-30;
+    @apply text-justify leading-relaxed indent-30 text-lg tracking-wide;
   }
 }
